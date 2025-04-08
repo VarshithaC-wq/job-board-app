@@ -1,6 +1,6 @@
 # Job Board App
 
-This is a simple Job Board web application built using *React* and *Next.js, created with the help of **v0.dev*. The app includes:
+This is a simple Job Board web application built using *React* and *Next.js,The app includes:
 
 ## Features
 
@@ -20,9 +20,8 @@ This is a simple Job Board web application built using *React* and *Next.js, cre
 - Deployment: *Vercel*
 - Version Control: *Git + GitHub*
 
-## How to Run Locally
-
-1. Clone this repository:
+## How to Run Locally                         
+ Clone this repository:
    ```bash
    git clone https://github.com/VarshithaC-wq/JobBoard-app.git
    cd JobBoard-app
